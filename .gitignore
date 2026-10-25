@@ -1,0 +1,37 @@
+# Arduino
+firmware/**/build/
+*.elf
+*.bin
+
+# Claude Code
+CLAUDE.md
+
+# IDE
+.vscode/
+*.swp
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datasheets (link to official sources instead)
+*.pdf
+
+# Local environments and generated packages
+.desktop-venv/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+*.log
+*.ready
+*.stop
+*.ply
+*.pgn
+.env
+.env.*
+desktop.json
+# Keep layout.json: provisional reproducible mounting defaults

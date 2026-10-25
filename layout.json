@@ -1,0 +1,34 @@
+{
+  "note": "PROVISIONAL: 64.91 mm treated as optical-center spacing. Rotations and offsets must be checked against the actual IMU axes.",
+  "sensors": {
+    "1": {
+      "offset_mm": [
+        -32.455,
+        0,
+        0
+      ],
+      "rotation_deg": [
+        180,
+        0,
+        0
+      ]
+    },
+    "2": {
+      "offset_mm": [
+        32.455,
+        0,
+        0
+      ],
+      "rotation_deg": [
+        180,
+        0,
+        0
+      ]
+    }
+  },
+  "display_rotation_deg": [
+    90,
+    0,
+    0
+  ]
+}
